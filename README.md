@@ -10,6 +10,6 @@ Grunt taks runner + live reload setup.
 3. npm install -g grunt-cli (optional)
 5. check watched web app files in 'Gruntfile.js'
 4. grunt watch
-5. use script in your web app: <script src="http://localhost:35729/livereload.js"></script>.
+5. use script in your web app: <script src="http://localhost:35729/livereload.js"></script>
 
 All changes saved to html, css and js files causes the browser to automatically reload.
