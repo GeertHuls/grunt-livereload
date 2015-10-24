@@ -45,7 +45,7 @@ grunt.initConfig({
     // grunt-watch will monitor the projects files
     watch: {
       all: {
-        files: 'index.html',
+        files: ['../index.html', '../css/*.css'],
         options: {
           livereload: true
         }
